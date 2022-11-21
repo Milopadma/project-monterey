@@ -1,1 +1,6 @@
 *.zip
+*.dmg
+GenSMBIOS-master/
+OpenCore-0.8.6-DEBUG/
+ProperTree-master/
+SSDTTime-master/
