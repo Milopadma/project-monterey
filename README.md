@@ -6,3 +6,7 @@ important EFI files for the project
 - MSI RX 570 4G
 - ADATA 650 240GB SSD
 - AsRock H310CM-HDV
+
+
+## 17:58 22/10/22 UPDATE
+$30 later and a successful install without any hiccups, running monterey 12.6.1 on one drive and win11 on another.
